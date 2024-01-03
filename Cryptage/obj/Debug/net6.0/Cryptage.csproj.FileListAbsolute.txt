@@ -1,0 +1,14 @@
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.AssemblyInfo.cs
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\bin\Debug\net6.0\Cryptage.exe
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\bin\Debug\net6.0\Cryptage.deps.json
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\bin\Debug\net6.0\Cryptage.runtimeconfig.json
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\bin\Debug\net6.0\Cryptage.dll
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\bin\Debug\net6.0\Cryptage.pdb
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.dll
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\refint\Cryptage.dll
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.pdb
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\Cryptage.genruntimeconfig.cache
+C:\Users\alexi\Desktop\DEV\C#\Cryptage\obj\Debug\net6.0\ref\Cryptage.dll
